@@ -1,3 +1,6 @@
+import React from "react";
+import ReactDOM from "react-dom/client";
+
 // Manipulating DOM using React
 
 // Creating nested React elements
