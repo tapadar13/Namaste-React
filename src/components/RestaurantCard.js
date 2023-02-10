@@ -1,5 +1,6 @@
-
 import { IMG_CDN_URL } from "../config";
+
+
 const RestaurantCard = ({
   name,
   cuisines,
