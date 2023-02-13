@@ -2655,3 +2655,5 @@ export const IMG_CDN_URL =
     subtype: "basic",
   },
 ];
+
+// https://www.swiggy.com/dapi/restaurants/list/v5?lat=28.6304203&lng=77.21772159999999&page_type=DESKTOP_WEB_LISTING

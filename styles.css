@@ -1,40 +1,66 @@
 .header {
-    display: flex;
-    justify-content: space-between;
-    margin: 10px;
-    border: 1px solid black;
+  display: flex;
+  justify-content: space-between;
+  margin: 10px;
+  border: 1px solid black;
 }
 
 .nav-items > ul {
-    list-style-type: none;
-    display: flex;
+  list-style-type: none;
+  display: flex;
 }
 
 .nav-items > ul > li {
-    padding: 10px;
+  padding: 10px;
 }
 
 .logo {
-    width: 85px;
+  width: 85px;
 }
 
 .card {
-    width: 250px;
-    padding: 10px;
-    margin: 10px;
-    border: 1px solid black;
+  width: 258px;
+  padding: 10px;
+  margin: 10px;
+  border: 1px solid black;
 }
 
 .card > img {
-    width: 100%;
+  width: 100%;
 }
 
 .card > div {
-    display: flex;
-    justify-content: space-between;
+  display: flex;
+  justify-content: space-between;
 }
 
 .restaurant-list {
-    display: flex;
-    flex-wrap: wrap;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.footer {
+  text-align: center;
+}
+
+.about-page {
+    text-align: center;
+}
+
+.contact-page {
+  text-align: center;
+}
+
+.search-container {
+  margin: 10px;
+  padding-top: 10px;
+}
+
+.error-message {
+  text-align: center;
+}
+
+.menu {
+  display: flex;
+  justify-content: space-evenly;
 }
