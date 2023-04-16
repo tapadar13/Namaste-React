@@ -33,7 +33,7 @@ const Body = () => {
 
   return (
     <>
-      <div className="search-container">
+      <div className="search-container p-5 bg-pink-50 my-5">
         <input
           type="text"
           className="search-input"
